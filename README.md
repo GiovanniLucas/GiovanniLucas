@@ -10,7 +10,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Sakuragi" height="120" width="140" src="https://cdn.discordapp.com/attachments/1276703226288279673/1293729040963862579/sakuragi-hanamichi.gif?ex=67086e8f&is=67071d0f&hm=c15bc47293d32146139f04ccb93c4a8c90e187441eaa029baba39eb68cada5e1&">
+  <img align="right" alt="Sakuragi" height="180" width="200" src="https://cdn.discordapp.com/attachments/1276703226288279673/1293729040963862579/sakuragi-hanamichi.gif?ex=67086e8f&is=67071d0f&hm=c15bc47293d32146139f04ccb93c4a8c90e187441eaa029baba39eb68cada5e1&">
 </div>
  
 <br>
