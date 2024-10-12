@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">Estudante de Ciência da Computação na UNIP de Limeira. Estou iniciando meus estudando em programação para me tornar um desenvolvedor Front-End, atualmente trabalho como suporte técnico.
-   Gosto muito de aprender coisas novas e treinar meu conhecimento</p>
+   Gosto muito de aprender coisas novas e treinar meu conhecimento.</p>
    
 #
 
