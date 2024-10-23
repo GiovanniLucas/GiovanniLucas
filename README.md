@@ -9,7 +9,7 @@
    
 #
 
-<img align="right" alt="Sakuragi" height="200" width="220" src="sakuragi-hanamichi.gif">
+<img align="right" alt="Sakuragi" height="200" width="220" src="sakuragi-hanamichi.gif" style="object-fit: cover;">
 
 <h3 align="left">Meus contatos</h3>
 
