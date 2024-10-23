@@ -9,7 +9,7 @@
    
 #
 
-<img align="right" alt="Sakuragi" height="200" width="220" src="https://cdn.discordapp.com/attachments/1276703226288279673/1293729040963862579/sakuragi-hanamichi.gif?ex=67086e8f&is=67071d0f&hm=c15bc47293d32146139f04ccb93c4a8c90e187441eaa029baba39eb68cada5e1&">
+<img align="right" alt="Sakuragi" height="200" width="220" src="sakuragi-hanamichi.gif">
 
 <h3 align="left">Meus contatos</h3>
 
