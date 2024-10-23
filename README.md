@@ -29,7 +29,7 @@
   <h3>* GitHub Stats *</h3>
   <br>
    <a href="https://github.com/GiovanniLucas">  </a>  
-   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=GiovanniLucas&hide_title=true&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=GiovanniLucas&hide_title=true&show_icons=true&rank_icon=github&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniLucas&layout=compact&langs_count=6&theme=tokyonight">
 </div> 
 
